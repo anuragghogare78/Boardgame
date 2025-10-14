@@ -119,8 +119,8 @@
 
 	 <distributionManagement>
         <repository>
-            <id>maven-releases</id>
-            <url>http://65.2.141.104:8081/repository/maven-releases/</url>
+            <id>maven-group-public</id>
+            <url>http://65.2.141.104:8081/repository/maven-group-public/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
