@@ -119,8 +119,8 @@
 
 	 <distributionManagement>
         <repository>
-            <id>maven-ds-releases</id>
-            <url>http://65.2.141.104:8081/repository/maven-ds-releases/</url>
+            <id>mvn-ds-releases</id>
+            <url>http://65.2.141.104:8081/repository/mvn-ds-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
