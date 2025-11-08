@@ -4,7 +4,7 @@ WORKDIR /app
       
 ENV /app /usr/src/app
 
-COPY target/*.jar /app/app.jar
+COPY /app/target/*.jar /app/app.jar
 
 EXPOSE 8080
 
