@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: anuragghogare78/boardgame1:${{ github.sha }}
+          tags: anuragghogare141778/boardgame1:${{ github.sha }}
